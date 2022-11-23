@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# SCOREANDO
+# SCORENADO
 A customizable, user-friendly and open-source visual assessment tool for histological slides
 
 ## About The Project
